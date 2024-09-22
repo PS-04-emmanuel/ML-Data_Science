@@ -1,0 +1,4 @@
+1,Milky Bar,5,100
+2,Choco pie,15,70
+3,Milk Cake,10,100
+4,Dark chocolate,50,500
